@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 There</h1>
+<h1 align="center">Hi There👋 </h1>
 <h3 align="center">I'm a student from Gunadarma University majoring Sistem Informasi. I'm currently enrolled in bootcamp FullStack Developer from DumbWays ID.</h3>
 
 - 🔭 I’m currently working on **Web Development**
