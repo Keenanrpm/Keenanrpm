@@ -1,8 +1,9 @@
+<h1 align="center">Hi There👋</h1>
 - 🔭 I’m currently working on [LANG (E-Learning Web)](https://lang.teleporthq.app/)
 
 - 🌱 I’m currently learning **Back-End and DevOps**
 
-- 🤝 I’m looking for help with [Backend](https://lang.teleporthq.app/)
+- 🤝 I’m looking for help with [Back-end](https://lang.teleporthq.app/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/keenanraiputrapermana/](https://www.linkedin.com/in/keenanraiputrapermana/)
 
